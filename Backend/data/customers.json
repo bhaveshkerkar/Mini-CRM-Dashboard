@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Asha Patel",
+    "email": "asha@example.com",
+    "phone": "9876543210",
+    "status": "Lead"
+  },
+  {
+    "id": "2",
+    "name": "Ravi Kumar",
+    "email": "ravi@example.com",
+    "phone": "9123456780",
+    "status": "Active"
+  }
+]
